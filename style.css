@@ -353,6 +353,9 @@ text-align: center;
 		height: 250px;
 		margin-left: 50px;
 	}
+	table{
+	overflow-x:auto;
+	}
 
 
 }
@@ -373,6 +376,7 @@ text-align: center;
 	height: 250px;
 	margin-left: 75px;
 }
+	
 }
 
 
