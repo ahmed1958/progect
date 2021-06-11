@@ -353,9 +353,7 @@ text-align: center;
 		height: 250px;
 		margin-left: 50px;
 	}
-	.table{
-	overflow-x:auto;
-	}
+	
 
 
 }
@@ -390,7 +388,7 @@ th, td {
 table
 {
   border: 1px solid black;
-	 width: 80%;
+	 width: 50%;
 	margin: auto;
 	margin-top: 70px;
 	border-collapse: collapse;
