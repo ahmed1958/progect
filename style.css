@@ -321,13 +321,13 @@ text-align: center;
 .about
 {
 	display: flex;
-	justify-content: space-between;
+	justify-content: center;
 
 }
 .about .col
 {
 
-	margin-left: 10px;
+	
 	line-height: 35px;
 	font-size:25px;
 }
