@@ -667,3 +667,24 @@ footer .ohour p
   text-decoration: none;
 margin-top: 10px;
 }
+@media screen and (max-width:650px) {
+  .contfoot
+  {
+    flex-direction: column;
+  }
+  footer .iconsf
+
+  {
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+  }
+
+  .ohour
+  {
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+  }
+
+}
