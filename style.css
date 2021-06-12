@@ -337,7 +337,7 @@ text-align: center;
 }
 .about .col img
 {
-
+      margin-top:15px;
 	height: 350px;
 
 }
