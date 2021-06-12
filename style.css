@@ -332,7 +332,7 @@ text-align: center;
 	height: 350px;
 
 }
-@media screen and (max-width:600px)  {
+@media screen and (max-width:650px)  {
 	.about
 	{
 		flex-direction: column;
@@ -354,9 +354,9 @@ text-align: center;
 		margin-left: 50px;
 	}
 	
-table
+        .table
 	{
-	width:45%;
+	overflow-x:auto;
 	}
 
 }
@@ -391,7 +391,7 @@ th, td {
 table
 {
   border: 1px solid black;
-	 width: 50%;
+	 width: 70%;
 	margin: auto;
 	margin-top: 70px;
 	border-collapse: collapse;
