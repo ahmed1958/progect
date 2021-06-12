@@ -8,8 +8,7 @@
 }
 
 body {
-    background-image: url(4444.jpg);
-    background-repeat: repeat-y;
+  
     padding: 69px 0 0;
     margin: 0;
     box-sizing: border-box;
@@ -97,8 +96,8 @@ nav .navigation li a:hover {
 }
 
 .all-d .dish:hover {
-    transform: translateY(-5px);
-    box-shadow: .5px .5px 20px rgba(0,0,0, .2);
+    transform: translateY(-7px);
+    box-shadow: 8px 8px 20px rgba(0,0,0, .2);
 }
 .dish .text
  {
@@ -431,7 +430,7 @@ caption
 	width: 250px;
   margin: 15px;
   border: 15px solid #fff;
-  box-shadow: 0 5px  35px rgba(0, 0, 0, 0.08);
+  box-shadow: 8px 8px 20px rgba(0,0,0, .2);
  background-color:white;
 }
 .contentex .boxex .imagesex
